@@ -2,6 +2,6 @@
 
 int main(){
 	printf("this is the first ssh commit\n");
-	printf("add this new Line1\n");
+	printf("this is the newLine add in clone\n");
 	return 0;
 }
